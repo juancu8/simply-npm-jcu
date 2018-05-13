@@ -1,0 +1,27 @@
+{
+  "name": "jcu-words",
+  "version": "0.1.0",
+  "description": "change strings",
+  "main": "dist/src/words.js",
+  "scripts": {
+    "build": "babel src/words.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancu8/simply-npm-jcu.git"
+  },
+  "keywords": [
+    "try",
+    "string",
+    "easy"
+  ],
+  "author": "Juan cu <juancu8@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
