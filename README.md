@@ -3,6 +3,8 @@
 This is a example. Here change parts of strings.
 Source [Platzi](https://platzi.com)
 
+Find in [npm](https://www.npmjs.com/package/jcu-words)
+
 ## Rules
 
 - The word ends in "ar" eliminates "ar".
